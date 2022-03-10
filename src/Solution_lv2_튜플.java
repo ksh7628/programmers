@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Map.Entry;
 
-class Solution {
+class Solution_lv2_튜플 {
 	// 1. 입력 문자열을 파싱
 	// 2. 숫자 빈도별로 맵에 저장 후 내림차순으로 해당 숫자들을 배열에 저장
 	public int[] solution(String s) {
